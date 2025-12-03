@@ -1,0 +1,1 @@
+Proyecto NBA Analytics - Estudio mediante análisis de estadístico avanzado para la predicción de distintos supuestos con información real de estadísticas de la NBA en la temporada 2025/2026, para poner a prueba conocimientos y métodos de análisis de datos.
