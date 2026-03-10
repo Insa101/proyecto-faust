@@ -1,0 +1,21 @@
+---
+title: "Ejercicio U04_E02"
+subtitle: Factura de Electricidad
+output:
+  pdf_document: default
+  html_document:
+    theme: united
+---
+
+Ahora vamos a hacer un programa en R que a partir de un fichero de base de datos de clientes y sus datos de consumo genere las facturas de todo el año 2016 para todos ellos.
+
+Puedes intentarlo por tu cuenta, leyendo los datos de clientes del fichero datos_clientes.csv y teneiendo en cuenta que los datos de consumo consumo_cliente_id.csv, la i corresponde al id de cliente. Para ello te proporcionamos una plantilla, ligeramente diferente a la del ejercicio anterior: 
+
+Para procesar la plantilla desde un programa, puedes usar el comando 
+
+`rmarkdown::render()`
+
+Puedes proporcionale mediante el argumento params, un objeto de R con los datos de cliente. Tambien puedes especificar diferentes nombres para el documento de salida mediante el argumento output_file
+
+
+Si no lo consigues puedes mirar directamente la solucion en Ej_U04_E01.R

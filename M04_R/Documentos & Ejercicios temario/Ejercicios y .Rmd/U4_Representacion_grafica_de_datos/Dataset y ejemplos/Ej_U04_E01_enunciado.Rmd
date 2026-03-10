@@ -1,0 +1,23 @@
+---
+title: "Ejercicio U04_E01"
+subtitle: Factura de Electricidad
+output:
+  pdf_document: default
+  html_document:
+    theme: united
+---
+
+El objetivo del ejercicio es elaborar un documento escrito en R markdown que cree una factura de electricidad, a partir de los datos de consumo de los clientes
+
+El resultado final del documento procesado debe ser como el que muestra el documento Ej_U04_E01_solucion.html
+
+1. Para ello os proporcionamos una plantilla de documeto .Rmd (Ej_U04_E01_plantilla.Rmd), para que relleneis algunas partes y hagais el procesado del documento para la obtención de la factura como documento html. 
+    - En este documento se leen los datos de consumo del fichero consumo_cliente_1.csv y los datos de precio de la tarifa eléctrica PVPC del fichero       pvpc2016.csv
+    - Abre con Rstudio el documento Ej_U04_E01_plantilla.Rmd)
+    - Fijandote en el documento de ejemplo Ej_U04_E01_solucion.html, rellena lo necesario en la plantilla. Guarda el documento .Rmd con otro nombre y procesalo con el botón Knit. Vuelve a modificar lo que creas necesario hasta que obtengas el resultado deseado. 
+
+
+2. Ahora puedes cambiar el periodo de facturación y crear una nueva factura para otro periodo. Experimenta
+
+3. Tambien puedes cambiar el fichero con los datos de consumo. En lugar de leer el fichero consumo_cliente_1.csv, puedes leer consumo_cliente_2.csv, consumo_cliente_3.csv o consumo_cliente_4.csv.
+

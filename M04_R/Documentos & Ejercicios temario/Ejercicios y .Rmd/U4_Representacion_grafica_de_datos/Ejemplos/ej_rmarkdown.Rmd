@@ -1,0 +1,40 @@
+---
+title: "Gapminder"
+output:
+  pdf_document: default
+  html_document: default
+date: '2017-03-22'
+---
+
+```{r setup, include = FALSE}
+library(ggplot2)
+library(dplyr)
+library(gapminder)
+library(knitr)
+
+data2007 <- gapminder %>% filter(year==2007)
+```
+
+#  Paises más poblados
+
+El __pais más poblado__ en el año 2007 es `r data2007$country[which.max(data2007$pop)]` con una población de `r max(data2007$pop)` habitantes
+
+Veamos los paises más poblados de cada continente
+
+```{r, echo = FALSE}
+maxpop<- gapminder %>% group_by(continent) %>% 
+  filter(min_rank(-pop)==1)
+kable(maxpop)
+```
+
+# Evoloución temporal
+
+La  evolución de la población en estos 5 paises ha sido
+
+```{r,echo=FALSE}
+library(gapminder)
+gapminder %>% filter(country %in% maxpop$country) %>% 
+  ggplot() + geom_line(aes(year,pop,color=country,group=country))
+```
+
+
