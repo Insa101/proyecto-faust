@@ -1,0 +1,234 @@
+CLIENTES
+idCliente PK
+nombre
+apellidos
+telefono
+email
+anyo_Nacimiento
+direccion 
+doc identificacion
+
+
+PRODUCTOS
+idProducto PK
+nombre
+precio
+categoria
+fechaRegistro
+
+
+CLIENTES - N:N - PRODUCTOS
+      REGISTRO COMPRA
+
+
+REGISTRO COMPRA
+idRegistroCompra PK
+idCliente  de Clientes  FK
+idProducto de Productos FK
+fecha compra
+
+
+
+
+CLIENTES   ------   PROVINCIAS
+
+
+En una provincia cuantos clientes han nacido como minimo: 0
+En una provincia cuantos clientes han nacido como máximo: N
+
+Un cliente como minimo en cuantas provincias ha nacido: 1
+Un cliente como máximo en cuantas provincias ha nacido: 1
+
+
+Clientes: 1
+Provincias: N
+
+PROVINCIAS(
+	codProvincia PK INT NOT NULL AUTO_INCREMENT,
+	nombre VARCHAR(45),
+	nHabitantes INT(7),
+	cp VARCHAR(5)
+)
+
+CLIENTES(
+	numCliente PK INT NOT NULL AUTO_INCREMENT,
+	nombre VARCHAR(30),
+	apellidos VARCHAR(90),
+	....
+	codProvincia INT FK,
+
+)
+
+
+CREATE TABLE paises(
+	idPais INT NOT NULL AUTO_INCREMENT,
+    nombre VARCHAR(45) NOT NULL UNIQUE,
+    PRIMARY KEY(idPais)
+);
+
+CREATE TABLE clientes(
+	idCliente INT NOT NULL AUTO_INCREMENT,
+    nombre VARCHAR(45) NOT NULL,
+    paisNacimiento INT,
+    PRIMARY KEY(idCliente),
+    FOREIGN KEY(paisNacimiento) REFERENCES paises(idPais)
+);
+
+
+
+EVENTOS
+- cómo mínimo: 1 valoraciones
+- cómo máximo: 1 valoracion
+
+
+VALORACIONES:
+- cómo mínimo: 1 evento
+- cómo mínimo: 1 evento
+
+ 1 : 1
+
+VALORACIONES(
+	idValoracion
+	texto
+	usuario
+	.....
+)
+
+EVENTO(
+	IdEvento....
+	nombre ....
+	idValoracion FK INT
+
+)
+
+
+EVENTO(
+	idEventos
+	....	
+
+)
+
+VALORACIONES(
+	idValoracion
+	idEvento FK
+)
+
+PACIENTES()
+
+HISTORIAL()
+
+Un paciente, ¿cómo mínimo cuantos historiales puede tener asociados?: 1
+Un paciente, ¿cómo máximo cuantos historiales puede tener asociados?: 1
+
+A un historial, ¿cómo mínimo cuantos pacientes puede asociarse?: 1
+A un historial, ¿cómo máximo cuantos pacientes puede asociarse?: 1
+
+PACIENTES: 1
+HISTORIALES: 1
+
+1:1
+
+PACIENTES(
+	numPaciente PK INT
+	nombre
+	apellidos
+	....
+)
+
+HISTORIALES(
+	idHistorial 
+	numPaciente FK INT
+
+)
+
+CLIENTES(
+	codCliente PK INT,
+	nombre,
+	apellido,
+	direccion,
+	telefono,
+	email,
+	....
+)
+
+PELICULAS(
+	codPelicula PK INT,
+	titulo,
+	duracion
+	genero,
+	director,
+	premio, 
+	....
+)
+
+ALQUILER(
+	idAlquiler PK INT,
+	codCliente FK INT,
+	codPelicula FK INT,
+	fechaAlquiler,
+	precioAlquiler, 
+
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

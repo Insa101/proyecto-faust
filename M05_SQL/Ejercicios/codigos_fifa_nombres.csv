@@ -1,0 +1,212 @@
+pais_id,nombre,region
+1,Afganistán,Asia Oriental
+2,Albania,Europa
+3,Alemania,Europa
+4,Andorra,Europa
+5,Angola,Africa
+6,Anguila,Caribe
+7,Antigua y Barbuda,Caribe
+8,Arabia Saudita,Medio Oriente
+9,Argelia,Africa
+10,Argentina,Sur America
+11,Armenia,Europa
+12,Aruba,Caribe
+13,Australia,Oceanía
+14,Austria,Europa
+15,Azerbaiyán,Europa
+16,Bahamas,Caribe
+17,Bangladés,Asia Oriental
+18,Barbados,Caribe
+19,Baréin,Medio Oriente
+20,Bélgica,Europa
+21,Belice,Centro America
+22,Benín,Africa
+23,Bermudas,Caribe
+24,Bielorrusia,Europa
+25,Birmania,Asia Oriental
+26,Bolivia,Sur America
+27,Bosnia y Herzegovina,Europa
+28,Botsuana,Africa
+29,Brasil,Sur America
+30,Brunéi,Asia Oriental
+31,Bulgaria,Europa
+32,Burkina Faso,Africa
+33,Burundi,Africa
+34,Bután,Asia Oriental
+35,Cabo Verde,Africa
+36,Camboya,Asia Oriental
+37,Camerún,Africa
+38,Canadá,Norte America
+39,Catar,Medio Oriente
+40,Chad,Africa
+41,Chile,Sur America
+42,China,Asia Oriental
+43,China Taipéi,Asia Oriental
+44,Chipre,Europa
+45,Colombia,Sur America
+46,Comoras,Africa
+47,Corea del Norte,Asia Oriental
+48,Corea del Sur,Asia Oriental
+49,Costa de Marfil,Africa
+50,Costa Rica,Centro America
+51,Croacia,Europa
+52,Cuba,Caribe
+53,Curazao,Caribe
+54,Dinamarca,Europa
+55,Dominica,Caribe
+56,Ecuador,Sur America
+57,Egipto,Africa
+58,El Salvador,Centro America
+59,Emiratos Árabes Unidos,Medio Oriente
+60,Eritrea,Africa
+61,Escocia,Europa
+62,Eslovaquia,Europa
+63,Eslovenia,Europa
+64,España,Europa
+65,Estados Unidos,Norte America
+66,Estonia,Europa
+67,Etiopía,Africa
+68,Filipinas,Asia Oriental
+69,Finlandia,Europa
+70,Fiyi,Oceanía
+71,Francia,Europa
+72,Gabón,Africa
+73,Gales,Europa
+74,Gambia,Africa
+75,Georgia,Europa
+76,Ghana,Africa
+77,Gibraltar,Europa
+78,Granada,Caribe
+79,Grecia,Europa
+80,Guam,Oceanía
+81,Guatemala,Centro America
+82,Guinea,Africa
+83,Guinea-Bisáu,Africa
+84,Guinea Ecuatorial,Africa
+85,Guyana,Sur America
+86,Haití,Caribe
+87,Honduras,Centro America
+88,Hong Kong,Asia Oriental
+89,Hungría,Europa
+90,India,Asia Oriental
+91,Indonesia,Asia Oriental
+92,Inglaterra,Europa
+93,Irak,Medio Oriente
+94,Irán,Medio Oriente
+95,Irlanda,Europa
+96,Irlanda del Norte,Europa
+97,Islandia,Europa
+98,Islas Caimán,Caribe
+99,Islas Cook,Oceanía
+100,Islas Feroe,Europa
+101,Islas Salomón,Oceanía
+102,Islas Turcas y Caicos,Caribe
+103,Islas Vírgenes Británicas,Caribe
+104,Islas Vírgenes Estadounidenses,Caribe
+105,Israel,Europa
+106,Italia,Europa
+107,Jamaica,Caribe
+108,Japón,Asia Oriental
+109,Jordania,Medio Oriente
+110,Kazajistán,Europa
+111,Kenia,Africa
+112,Kirguistán,Asia Oriental
+113,Kosovo,Europa
+114,Kuwait,Medio Oriente
+115,Laos,Asia Oriental
+116,Lesoto,Africa
+117,Letonia,Europa
+118,Líbano,Medio Oriente
+119,Liberia,Africa
+120,Libia,Africa
+121,Liechtenstein,Europa
+122,Lituania,Europa
+123,Luxemburgo,Europa
+124,Macao,Asia Oriental
+125,Macedonia del Norte,Europa
+126,Madagascar,Africa
+127,Malasia,Asia Oriental
+128,Malaui,Africa
+129,Maldivas,Asia Oriental
+130,Malí,Africa
+131,Malta,Europa
+132,Marruecos,Africa
+133,Mauricio,Africa
+134,Mauritania,Africa
+135,México,Norte America
+136,Moldavia,Europa
+137,Mongolia,Asia Oriental
+138,Montenegro,Europa
+139,Montserrat,Caribe
+140,Mozambique,Africa
+141,Namibia,Africa
+142,Nepal,Asia Oriental
+143,Nicaragua,Centro America
+144,Níger,Africa
+145,Nigeria,Africa
+146,Noruega,Europa
+147,Nueva Caledonia,Oceanía
+148,Nueva Zelanda,Oceanía
+149,Omán,Medio Oriente
+150,Países Bajos,Europa
+151,Pakistán,Asia Oriental
+152,Palestina,Medio Oriente
+153,Panamá,Centro America
+154,Papúa Nueva Guinea,Oceanía
+155,Paraguay,Sur America
+156,Perú,Sur America
+157,Polonia,Europa
+158,Portugal,Europa
+159,Puerto Rico,Caribe
+160,República Centroafricana,Africa
+161,República Checa,Europa
+162,República del Congo,Africa
+163,República Democrática del Congo,Africa
+164,República Dominicana,Caribe
+165,Ruanda,Africa
+166,Rumania,Europa
+167,Rusia,Europa
+168,Samoa,Oceanía
+169,Samoa Americana,Oceanía
+170,San Cristóbal y Nieves,Caribe
+171,San Marino,Europa
+172,San Vicente y las Granadinas,Caribe
+173,Santa Lucía,Caribe
+174,Santo Tomé y Príncipe,Africa
+175,Senegal,Africa
+176,Serbia,Europa
+177,Seychelles,Africa
+178,Sierra Leona,Africa
+179,Singapur,Asia Oriental
+180,Siria,Medio Oriente
+181,Somalia,Africa
+182,Sri Lanka,Asia Oriental
+183,Suazilandia,Africa
+184,Sudáfrica,Africa
+185,Sudán,Africa
+186,Sudán del Sur,Africa
+187,Suecia,Europa
+188,Suiza,Europa
+189,Surinam,Sur America
+190,Tahití,Oceanía
+191,Tailandia,Asia Oriental
+192,Tanzania,Africa
+193,Tayikistán,Asia Oriental
+194,Timor Oriental,Asia Oriental
+195,Togo,Africa
+196,Tonga,Oceanía
+197,Trinidad y Tobago,Caribe
+198,Túnez,Africa
+199,Turkmenistán,Asia Oriental
+200,Turquía,Europa
+201,Ucrania,Europa
+202,Uganda,Africa
+203,Uruguay,Sur America
+204,Uzbekistán,Asia Oriental
+205,Vanuatu,Oceanía
+206,Venezuela,Sur America
+207,Vietnam,Asia Oriental
+208,Yemen,Medio Oriente
+209,Yibuti,Africa
+210,Zambia,Africa
+211,Zimbabue,Africa

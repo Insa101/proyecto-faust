@@ -1,0 +1,34 @@
+Supuesto 1: Gestión de una Academia de Música
+Este ejercicio se centra en las relaciones básicas y cardinalidades estándar.
+
+Contexto: Una academia desea informatizar su gestión de clases.
+
+Requisitos:
+
+Se debe registrar información de los Alumnos (nombre, DNI, fecha de nacimiento).
+
+Se desea almacenar datos de los Profesores (nombre, especialidad, teléfono).
+
+Existen Instrumentos (nombre, número de serie, marca) que la academia posee.
+
+Existen especialidades ( nombre, naturaleza)
+
+Existen clases ( profesor, tipo, especialidad)
+
+Existen clases individuales ( alumno, instrumento)
+
+Existen clases multitudinarias ( alumno1, instrumento1,....)
+
+Lógica de negocio:
+
+Un profesor puede impartir clases
+
+Un alumno puede tomar prestado un único instrumento de la academia en un momento dado, y cada instrumento solo puede estar en manos de un alumno a la vez.
+
+Varios profesores pueden saber tocar varias especialidades (relación entre profesores y especialidades).
+
+un Alumno puede recibir distintas clases con distintas especialidades de distintos profesores 
+
+una clase es de una especialidad únicamente , impartida por un profesor únicamente y con un alumno mínimo, pero puede haber hasta 5 alumnos.
+
+En las clases puede haber varios instrumentos

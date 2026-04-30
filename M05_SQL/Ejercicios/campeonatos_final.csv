@@ -1,0 +1,216 @@
+campeonatos_id,competicion_id,temporada_id,campeon,subcampeon
+1,2,1,Vizcaya,Fútbol Club Barcelona
+2,3,2,Athletic Club de Bilbao,Real Madrid
+3,3,3,Athletic Club de Bilbao,-
+4,3,4,Real Madrid,Athletic Club de Bilbao
+5,3,5,Real Madrid,Athletic Club de Bilbao
+6,3,6,Real Madrid,Vizcaya
+7,3,7,Real Madrid,Vigo Sporting
+8,3,8,Club Ciclista de San Sebastián,Real Club Deportivo Español de Barcelona
+9,3,9,Athletic Club de Bilbao,Basconia
+10,3,9,Fútbol Club Barcelona,Club Español de Madrid
+11,3,10,Athletic Club de Bilbao,Real Club Deportivo Español de Barcelona
+12,3,11,Fútbol Club Barcelona,Gimnástica
+13,3,12,Racing de Irún,Athletic Club de Bilbao
+14,3,12,Fútbol Club Barcelona,Real Sociedad
+15,3,13,Athletic Club de Bilbao,España
+16,3,14,Athletic Club de Bilbao,Real Club Deportivo Español de Barcelona
+17,3,15,Athletic Club de Bilbao,Real Madrid
+18,3,16,Real Madrid,Arenas Club de Guecho
+19,3,17,Real Unión Club de Irún,Real Madrid
+20,3,18,Arenas Club de Guecho,Fútbol Club Barcelona
+21,3,19,Fútbol Club Barcelona,Athletic Club de Bilbao
+22,3,20,Athletic Club de Bilbao,Atlético de Madrid
+23,3,21,Fútbol Club Barcelona,Real Unión Club de Irún
+24,3,22,Athletic Club de Bilbao,Europa
+25,3,23,Real Unión Club de Irún,Real Madrid
+26,3,24,Fútbol Club Barcelona,Arenas Club de Guecho
+27,3,25,Fútbol Club Barcelona,Atlético de Madrid
+28,3,26,Real Unión Club de Irún,Arenas Club de Guecho
+29,3,27,Fútbol Club Barcelona,Real Sociedad
+30,3,28,Real Club Deportivo Español de Barcelona,Real Madrid
+31,3,29,Athletic Club de Bilbao,Real Madrid
+32,3,30,Athletic Club de Bilbao,Real Betis Balompié
+33,4,31,Athletic Club de Bilbao,Fútbol Club Barcelona
+34,4,32,Athletic Club de Bilbao,Real Madrid
+35,4,33,Real Madrid,Valencia Club de Fútbol
+36,4,34,Sevilla Fútbol Club,Sabadell
+37,4,35,Real Madrid,Fútbol Club Barcelona
+38,5,36,Sevilla Fútbol Club,Racing Club de Ferrol
+39,5,37,Real Club Deportivo Español de Barcelona,Real Madrid
+40,5,38,Valencia Club de Fútbol,Real Club Deportivo Español de Barcelona
+41,5,39,Fútbol Club Barcelona,Athletic Club de Bilbao
+42,5,40,Athletic Club de Bilbao,Real Madrid
+43,5,41,Athletic Club de Bilbao,Valencia Club de Fútbol
+44,5,42,Athletic Club de Bilbao,Valencia Club de Fútbol
+45,5,43,Real Madrid,Valencia Club de Fútbol
+46,5,44,Real Madrid,Real Club Deportivo Español de Barcelona
+47,5,45,Sevilla Fútbol Club,Real Club Celta de Vigo
+48,5,46,Valencia Club de Fútbol,Athletic Club de Bilbao
+49,5,47,Athletic Club de Bilbao,Real Valladolid
+50,5,48,Fútbol Club Barcelona,Real Sociedad
+51,5,49,Fútbol Club Barcelona,Valencia Club de Fútbol
+52,5,50,Fútbol Club Barcelona,Athletic Club de Bilbao
+53,5,51,Valencia Club de Fútbol,Fútbol Club Barcelona
+54,5,52,Athletic Club de Bilbao,Sevilla Fútbol Club
+55,5,53,Athletic Club de Bilbao,Atlético de Madrid
+56,5,54,Fútbol Club Barcelona,Real Club Deportivo Español de Barcelona
+57,5,55,Athletic Club de Bilbao,Real Madrid
+58,5,56,Fútbol Club Barcelona,Granada
+59,5,57,Atlético de Madrid,Real Madrid
+60,5,58,Atlético de Madrid,Real Madrid
+61,5,59,Real Madrid,Sevilla Fútbol Club
+62,5,60,Fútbol Club Barcelona,Real Zaragoza
+63,5,61,Real Zaragoza,Atlético de Madrid
+64,5,62,Atlético de Madrid,Real Zaragoza
+65,5,63,Real Zaragoza,Athletic Club de Bilbao
+66,5,64,Valencia Club de Fútbol,Athletic Club de Bilbao
+67,5,65,Fútbol Club Barcelona,Real Madrid
+68,5,66,Athletic Club de Bilbao,Elche
+69,5,67,Real Madrid,Valencia Club de Fútbol
+70,5,68,Fútbol Club Barcelona,Valencia Club de Fútbol
+71,5,69,Atlético de Madrid,Valencia Club de Fútbol
+72,5,70,Athletic Club de Bilbao,Club Deportivo Castellón
+73,5,71,Real Madrid,Fútbol Club Barcelona
+74,5,72,Real Madrid,Atlético de Madrid
+75,5,73,Atlético de Madrid,Real Zaragoza
+76,3,74,Real Betis Balompié,Athletic Club de Bilbao
+77,3,75,Fútbol Club Barcelona,Unión Deportiva Las Palmas
+78,3,76,Valencia Club de Fútbol,Real Madrid
+79,3,77,Real Madrid,Castilla Club de Fútbol
+80,3,78,Fútbol Club Barcelona,Sporting de Gijón
+81,3,79,Real Madrid,Sporting de Gijón
+82,3,80,Fútbol Club Barcelona,Real Madrid
+83,3,81,Athletic Club de Bilbao,Fútbol Club Barcelona
+84,3,82,Atlético de Madrid,Athletic Club de Bilbao
+85,3,83,Real Zaragoza,Fútbol Club Barcelona
+86,3,84,Real Sociedad,Atlético de Madrid
+87,3,85,Fútbol Club Barcelona,Real Sociedad
+88,3,86,Real Madrid,Real Valladolid
+89,3,87,Fútbol Club Barcelona,Real Madrid
+90,3,88,Atlético de Madrid,Real Club Deportivo Mallorca
+91,3,89,Atlético de Madrid,Real Madrid
+92,3,90,Real Madrid,Real Zaragoza
+93,3,91,Real Zaragoza,Real Club Celta de Vigo
+94,3,92,Real Club Deportivo de la Coruña,Valencia Club de Fútbol
+95,3,93,Atlético de Madrid,Fútbol Club Barcelona
+96,3,94,Fútbol Club Barcelona,Real Betis Balompié
+97,3,95,Fútbol Club Barcelona,Real Club Deportivo Mallorca
+98,3,96,Valencia Club de Fútbol,Atlético de Madrid
+99,3,97,Real Club Deportivo Español de Barcelona,Atlético de Madrid
+100,3,98,Real Zaragoza,Real Club Celta de Vigo
+101,3,99,Real Club Deportivo de la Coruña,Real Madrid
+102,3,100,Real Club Deportivo Mallorca,Real Club Recreativo de Huelva
+103,3,101,Real Zaragoza,Real Madrid
+104,3,102,Real Betis Balompié,Club Atlético Osasuna
+105,3,103,Real Club Deportivo Español de Barcelona,Real Zaragoza
+106,3,104,Sevilla Fútbol Club,Getafe Club de Fútbol
+107,3,105,Valencia Club de Fútbol,Getafe Club de Fútbol
+108,3,104,Fútbol Club Barcelona,Athletic Club de Bilbao
+109,3,105,Sevilla Fútbol Club,Atlético de Madrid
+110,1,28,Fútbol Club Barcelona,Real Madrid
+111,1,29,Athletic Club de Bilbao,Fútbol Club Barcelona
+112,1,30,Athletic Club de Bilbao,Racing de Santander
+113,1,31,Real Madrid,Athletic Club de Bilbao
+114,1,32,Real Madrid,Athletic Club de Bilbao
+115,1,33,Athletic Club de Bilbao,Real Madrid
+116,1,34,Real Betis Balompié,Real Madrid
+117,1,35,Athletic Club de Bilbao,Real Madrid
+118,1,37,Atlético Aviación,Sevilla Fútbol Club
+119,1,38,Atlético Aviación,Athletic Club de Bilbao
+120,1,39,Valencia Club de Fútbol,Real Madrid
+121,1,40,Athletic Club de Bilbao,Sevilla Fútbol Club
+122,1,41,Valencia Club de Fútbol,Atlético Aviación
+123,1,42,Fútbol Club Barcelona,Real Madrid
+124,1,43,Sevilla Fútbol Club,Fútbol Club Barcelona
+125,1,44,Valencia Club de Fútbol,Athletic Club de Bilbao
+126,1,45,Fútbol Club Barcelona,Valencia Club de Fútbol
+127,1,46,Fútbol Club Barcelona,Valencia Club de Fútbol
+128,1,47,Atlético de Madrid,Real Club Deportivo de la Coruña
+129,1,48,Atlético de Madrid,Sevilla Fútbol Club
+130,1,49,Fútbol Club Barcelona,Athletic Club de Bilbao
+131,1,50,Fútbol Club Barcelona,Valencia Club de Fútbol
+132,1,51,Real Madrid,Fútbol Club Barcelona
+133,1,52,Real Madrid,Fútbol Club Barcelona
+134,1,53,Athletic Club de Bilbao,Fútbol Club Barcelona
+135,1,54,Real Madrid,Sevilla Fútbol Club
+136,1,55,Real Madrid,Atlético de Madrid
+137,1,56,Fútbol Club Barcelona,Real Madrid
+138,1,57,Fútbol Club Barcelona,Real Madrid
+139,1,58,Real Madrid,Atlético de Madrid
+140,1,59,Real Madrid,Fútbol Club Barcelona
+141,1,60,Real Madrid,Atlético de Madrid
+142,1,61,Real Madrid,Fútbol Club Barcelona
+143,1,62,Real Madrid,Atlético de Madrid
+144,1,63,Atlético de Madrid,Real Madrid
+145,1,64,Real Madrid,Fútbol Club Barcelona
+146,1,65,Real Madrid,Fútbol Club Barcelona
+147,1,66,Real Madrid,Unión Deportiva Las Palmas
+148,1,67,Atlético de Madrid,Athletic Club de Bilbao
+149,1,68,Valencia Club de Fútbol,Fútbol Club Barcelona
+150,1,69,Real Madrid,Valencia Club de Fútbol
+151,1,70,Atlético de Madrid,Fútbol Club Barcelona
+152,1,71,Fútbol Club Barcelona,Atlético de Madrid
+153,1,72,Real Madrid,Real Zaragoza
+154,1,73,Real Madrid,Fútbol Club Barcelona
+155,1,74,Atlético de Madrid,Fútbol Club Barcelona
+156,1,75,Real Madrid,Fútbol Club Barcelona
+157,1,76,Real Madrid,Sporting de Gijón
+158,1,77,Real Madrid,Real Sociedad
+159,1,78,Real Sociedad,Real Madrid
+160,1,79,Real Sociedad,Fútbol Club Barcelona
+161,1,80,Athletic Club de Bilbao,Real Madrid
+162,1,81,Athletic Club de Bilbao,Real Madrid
+163,1,82,Fútbol Club Barcelona,Atlético de Madrid
+164,1,83,Real Madrid,Fútbol Club Barcelona
+165,1,84,Real Madrid,Fútbol Club Barcelona
+166,1,85,Real Madrid,Real Sociedad
+167,1,86,Real Madrid,Fútbol Club Barcelona
+168,1,87,Real Madrid,Valencia Club de Fútbol
+169,1,88,Fútbol Club Barcelona,Atlético de Madrid
+170,1,89,Fútbol Club Barcelona,Real Madrid
+171,1,90,Fútbol Club Barcelona,Real Madrid
+172,1,91,Fútbol Club Barcelona,Real Club Deportivo de la Coruña
+173,1,92,Real Madrid,Real Club Deportivo de la Coruña
+174,1,93,Atlético de Madrid,Valencia Club de Fútbol
+175,1,94,Real Madrid,Fútbol Club Barcelona
+176,1,95,Fútbol Club Barcelona,Athletic Club de Bilbao
+177,1,96,Fútbol Club Barcelona,Real Madrid
+178,1,97,Real Club Deportivo de la Coruña,Fútbol Club Barcelona
+179,1,98,Real Madrid,Real Club Deportivo de la Coruña
+180,1,99,Valencia Club de Fútbol,Real Club Deportivo de la Coruña
+181,1,100,Real Madrid,Real Sociedad
+182,1,101,Valencia Club de Fútbol,Fútbol Club Barcelona
+183,1,102,Fútbol Club Barcelona,Real Madrid
+184,1,103,Fútbol Club Barcelona,Real Madrid
+185,1,104,Real Madrid,Fútbol Club Barcelona
+186,1,105,Real Madrid,Villareal Club de Fútbol
+187,1,104,Fútbol Club Barcelona,Real Madrid
+188,1,105,Fútbol Club Barcelona,Real Madrid
+189,6,80,Real Sociedad,Real Madrid
+190,6,81,Fútbol Club Barcelona,Athletic Club de Bilbao
+191,6,82,Athletic Club de Bilbao,-
+192,6,83,Atlético de Madrid,Fútbol Club Barcelona
+193,6,86,Real Madrid,Fútbol Club Barcelona
+194,6,87,Real Madrid,-
+195,6,88,Real Madrid,Fútbol Club Barcelona
+196,6,89,Fútbol Club Barcelona,Atlético de Madrid
+197,6,90,Fútbol Club Barcelona,Atlético de Madrid
+198,6,91,Real Madrid,Fútbol Club Barcelona
+199,6,92,Fútbol Club Barcelona,Real Zaragoza
+200,6,93,Real Club Deportivo de la Coruña,Real Madrid
+201,6,94,Fútbol Club Barcelona,Atlético de Madrid
+202,6,95,Real Madrid,Fútbol Club Barcelona
+203,6,96,Real Club Deportivo Mallorca,Fútbol Club Barcelona
+204,6,97,Valencia Club de Fútbol,Fútbol Club Barcelona
+205,6,98,Real Club Deportivo de la Coruña,Real Club Deportivo Español de Barcelona
+206,6,99,Real Madrid,Real Zaragoza
+207,6,100,Real Club Deportivo de la Coruña,Valencia Club de Fútbol
+208,6,101,Real Madrid,Real Club Deportivo Mallorca
+209,6,102,Real Zaragoza,Valencia Club de Fútbol
+210,6,103,Fútbol Club Barcelona,Real Betis Balompié
+211,6,104,Fútbol Club Barcelona,Real Club Deportivo Español de Barcelona
+212,6,105,Sevilla Fútbol Club,Real Madrid
+213,6,104,Real Madrid,Valencia Club de Fútbol
+214,6,105,Fútbol Club Barcelona,Athletic Club de Bilbao
+215,6,105,Fútbol Club Barcelona,Sevilla Fútbol Club

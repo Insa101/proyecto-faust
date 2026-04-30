@@ -1,0 +1,26 @@
+ALUMNOS(
+	cdAlumno PK INT NOT NULL AUTO_INCREMENT
+	nombre VARCHAR (40) NOT NULL,
+	DNI VARCHAR (9) NOT NULL,
+	fecha de nacimiento DATE NOT NULL,
+
+	);
+
+PROFESORES(
+	   cdProfesor PK INT NOT NULL AUTO_INCREMENT
+	   nombre VARCHAR (40) NOT NULL,
+	   teléfono INT (9) NOT NULL,
+	   cdEspecialidad FK SET NOT NULL,
+
+	   );
+
+INSTRUMENTOS( 
+	     cdInstrumento PK INT NOT NULL AUTO_INCREMENT,
+	     nombre VARCHAR (40) NOT NULL,
+	     n_serie VARCHAR () NOT NULL,
+	     cdMarca FK SET NOT NULL,
+
+	     );
+
+
+	     
